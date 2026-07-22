@@ -4,7 +4,7 @@ A simple shopping list application built with JavaScript.
 
 ## 🌐 Live Demo
 
-[View live demo]()
+[View live demo](https://free00ip.github.io/shopping-list-js/)
 
 ## 📌 About the Project
 
@@ -20,7 +20,7 @@ The project was created to practice JavaScript fundamentals, including DOM manip
 - DOM Manipulation
 - Event Handling
 
-##  Features
+## 👩‍💻 Features
 
 - Add new items to the shopping list by pressing Enter
 - Prevent adding empty items
